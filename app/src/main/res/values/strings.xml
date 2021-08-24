@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LowesAbenaTest</string>
+    <string name="weather_temp">Temp: %1$d</string>
+    <string name="city_search_hint">City name</string>
+    <string name="button_city_search">Search</string>
+    <string name="description_feels_like">Feels like: %1$d</string>
+</resources>
